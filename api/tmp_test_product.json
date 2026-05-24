@@ -1,0 +1,9 @@
+{
+  "name": "TestProd",
+  "description": "Test description",
+  "price": 10,
+  "category": "test",
+  "stock": 5,
+  "image": "data:image/png;base64,AAA",
+  "colors": []
+}
